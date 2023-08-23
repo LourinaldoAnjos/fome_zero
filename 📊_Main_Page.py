@@ -18,7 +18,7 @@ from PIL import Image
 
 # ========================================================================= Configuração da pagina =========================================================================
 
-st.set_page_config(page_title = 'Main Page', page_icon = '📊', layout = 'wide')
+st.set_page_config(page_title = 'Main Page', page_icon = 'grafico_barras.png', layout = 'wide')
 
 # =================================================
 # Import dataframe
@@ -382,7 +382,7 @@ df_1_aux = barra_lateral(df_1)
 
 st.markdown('## Fome Zero!')
 
-st.markdown('### O Melhor Lugar para Encontrar seu mais novo Restaurante Favorito!')
+st.markdown('### O Melhor lugar para encontrar seu mais novo restaurante favorito!')
 
 st.markdown('#### Temos as seguintes marcas dentro da nossa plataforma:')
 
