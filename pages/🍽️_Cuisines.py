@@ -18,7 +18,7 @@ from PIL import Image
 
 # ========================================================================= Configuração da pagina =========================================================================
 
-st.set_page_config(page_title = 'Visão Cuisines', page_icon = '🍽️', layout = 'wide')
+st.set_page_config(page_title = 'Visão Cuisines', page_icon = 'pages/restaurante_2.png', layout = 'wide')
 
 # =================================================
 # Import dataframe

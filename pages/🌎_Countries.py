@@ -18,7 +18,7 @@ from PIL import Image
 
 # ========================================================================= Configuração da pagina =========================================================================
 
-st.set_page_config(page_title = 'Visão Countries', page_icon = '🌎', layout = 'wide')
+st.set_page_config(page_title = 'Visão Countries', page_icon = 'pages/globo_mundo.png', layout = 'wide')
 
 # =================================================
 # Import dataframe
