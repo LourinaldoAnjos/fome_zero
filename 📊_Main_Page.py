@@ -382,7 +382,7 @@ df_1_aux = barra_lateral(df_1)
 
 st.markdown('## Fome Zero!')
 
-st.markdown('### O Melhor lugar para encontrar seu mais novo restaurante favorito!')
+st.markdown('### O Melhor Lugar para Encontrar seu mais novo Restaurante Favorito!')
 
 st.markdown('#### Temos as seguintes marcas dentro da nossa plataforma:')
 
