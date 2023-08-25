@@ -82,6 +82,9 @@ Além disso, o Cientista de Dados também sugeriu categorizar, inicialmente, tod
 
 Utilizando as funções criadas, você deverá ter um DataFrame pronto para ser analisado.
 
+# O produto final do projeto
+Painel online, hospedado em um Cloud e disponível para acesso em qualquer dispositivo conectado à internet. O painel pode ser acessado através desse link: https://lourinaldo-fome-zero.streamlit.app/
+
 # Conclusão
 
 Os problemas nas empresas chegam em forma de perguntas abertas, desestruturadas e sem nenhuma dica sobre como resolver, então, utilizar os conhecimentos adquiridos no curso serão fundamentais para o seu sucesso na sua jornada como um profissional de Ciência de Dados.
